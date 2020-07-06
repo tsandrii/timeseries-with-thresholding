@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+sklearn
+fastai
+python-dotenv
+matplotlib
